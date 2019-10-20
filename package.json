@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chart.js": "^2.8.0",
     "react": "^16.10.2",
+    "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-github-login": "^1.0.3",
+    "react-modal": "^3.10.1",
+    "react-scripts": "3.2.0",
+    "react-social-login-buttons": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
